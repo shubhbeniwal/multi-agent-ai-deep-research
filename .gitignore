@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+.env
+
+# Streamlit
+.streamlit/secrets.toml
+
+# VS Code
+.vscode/
+
+# Mac
+.DS_Store
+
+# Logs
+*.log
+
+# PDF Outputs
+*.pdf
+
+# Temporary Files
+temp/
+tmp/
+
+# Cache
+.cache/
+
+# Research Memory Backup
+*.bak
+
+# Whisper Models
+models/
+
+# Environment Variables
+.env.local
+.env.production
+
+# Pytest
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
