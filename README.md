@@ -1,4 +1,4 @@
-# 🔬 AI Deep Research Platform
+# 🔬 ResearchGPT – Multi-Agent AI Research Assistant
 
 ## Multi-Agent AI Research, Web Intelligence & Memory-Augmented Report Generation
 
