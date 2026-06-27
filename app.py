@@ -76,7 +76,7 @@ if "research_history" not in st.session_state:
     st.session_state.research_history = []
     
 st.markdown("""
-# 🔬 Multi-Agent Research Assistant
+# 🔬 ResearchGPT – Multi-Agent AI Research Assistant
 
 ### AI-Powered Deep Research Platform
 
