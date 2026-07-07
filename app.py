@@ -417,17 +417,27 @@ if run_button and topic:
     
     st.markdown("---")
 
-    quality_scores = {
-        "Research Depth": research_depth,
-        "Source Coverage": source_coverage,
-        "Confidence Score": confidence_score
-    }
-    
     st.subheader("📊 Research Quality Analysis")
+
+    q1, q2, q3 = st.columns(3)
     
-    st.json(
-        quality_scores
-    )
+    with q1:
+        st.metric(
+            "Research Depth",
+            f"{research_depth}%"
+        )
+    
+    with q2:
+        st.metric(
+            "Source Coverage",
+            f"{source_coverage}%"
+        )
+    
+    with q3:
+        st.metric(
+            "Confidence",
+            f"{confidence_score}%"
+        )
     
     pdf_file = "research_report.pdf"
 
