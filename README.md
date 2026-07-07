@@ -1,3 +1,8 @@
+<img width="529" height="361" alt="image" src="https://github.com/user-attachments/assets/9ae5b113-3ac9-4272-944f-431628f38f57" />
+<img width="730" height="325" alt="image" src="https://github.com/user-attachments/assets/a6e0bbc8-0628-4d56-b3a5-b0e06e5e622a" />
+<img width="635" height="312" alt="image" src="https://github.com/user-attachments/assets/32fc4978-9570-4540-8ee7-48223005ac92" />
+
+
 # 🔬 ResearchGPT – Multi-Agent AI Research Assistant
 
 ## Multi-Agent AI Research, Web Intelligence & Memory-Augmented Report Generation
