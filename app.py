@@ -324,7 +324,7 @@ if run_button and topic:
     confidence_score = 90
         
     st.session_state.quality_history.append(
-        quality_scores
+        confidence_score
     )
     
     st.markdown("---")
