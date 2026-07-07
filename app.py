@@ -417,9 +417,15 @@ if run_button and topic:
     
     st.markdown("---")
 
+    quality_scores = {
+        "Research Depth": research_depth,
+        "Source Coverage": source_coverage,
+        "Confidence Score": confidence_score
+    }
+    
     st.subheader("📊 Research Quality Analysis")
-
-    st.code(
+    
+    st.json(
         quality_scores
     )
     
